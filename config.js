@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "TUDO ISSO?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Ao infinito e além! 🚀💝",              // Shows when they go past 1000%
-        normal: "E muito mais! 🥰"                           // Shows when they go past 100%
+        extreme: "ALL OF THIS?? 🥰🚀💝",  // Shows when they go past 5000%
+        high:infinity and beyond,              // Shows when they go past 1000%
+        normal: "Cool ! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "IUPIIIII! Eu sou a pessoa mais sortuda do mundo! 🎉💝💖💝💓",
-        message: "MUAC!",
+        title: "Yippie!You make me the most happiest! 🎉💝💖💝💓",
+        message: "I love u!",
         emojis: "🎁💙​🤗💝💋💜​💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dtgekjpk8/video/upload/v1769969087/Fairytale_aqpu55.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
